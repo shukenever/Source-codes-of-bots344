@@ -1,0 +1,39 @@
+2024-11-19 08:27:58.648939: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode character '\u015a' in position 68: character maps to <undefined>
+2024-11-19 08:29:10.304819: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode character '\u015a' in position 68: character maps to <undefined>
+2024-11-19 08:30:08.273876: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode character '\u015a' in position 68: character maps to <undefined>
+2024-11-19 08:52:16.410253: An error occurred in main loop: AttributeError - 'NoneType' object has no attribute 'split'
+2024-11-19 08:53:16.607757: An error occurred in main loop: AttributeError - 'NoneType' object has no attribute 'split'
+2024-11-19 09:29:42.031538: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode character '\ufeff' in position 0: character maps to <undefined>
+2024-11-19 09:39:58.565501: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode character '\ufeff' in position 0: character maps to <undefined>
+2024-11-19 13:49:49.766833: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode character '\ufeff' in position 0: character maps to <undefined>
+2024-11-19 14:05:13.812476: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode characters in position 176-179: character maps to <undefined>
+2024-11-19 14:20:40.575308: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode character '\ufeff' in position 0: character maps to <undefined>
+2024-11-20 01:14:48.334479: An error occurred in main loop: BadRequest - Message to delete not found
+2024-11-22 12:41:58.014013: An error occurred in main loop: BadRequest - Message to delete not found
+2024-11-23 06:51:18.893959: An error occurred in main loop: BadRequest - Message to delete not found
+2024-11-23 11:42:33.769154: An error occurred in main loop: BadRequest - Message to delete not found
+2024-11-25 13:01:21.285750: An error occurred in main loop: AttributeError - 'list' object has no attribute 'strip'
+2024-11-26 03:13:07.735225: An error occurred in main loop: UnicodeEncodeError - 'charmap' codec can't encode characters in position 54-55: character maps to <undefined>
+2024-11-26 03:20:18.456464: An error occurred in main loop: TypeError - write() argument must be str, not list
+2024-11-26 13:38:18.970879: An error occurred in main loop: BadRequest - Message to delete not found
+2024-11-26 13:39:21.581282: An error occurred in main loop: BadRequest - Message to delete not found
+2024-11-26 13:40:24.299257: An error occurred in main loop: BadRequest - Message to delete not found
+2024-11-26 13:41:31.878580: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-08 13:49:14.747109: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-08 14:08:15.855448: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-10 10:09:03.635899: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-10 10:28:09.863751: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-10 11:20:13.874240: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-10 12:16:27.882238: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-10 12:56:02.647944: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-11 07:09:17.785871: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-11 07:48:28.535016: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-11 07:53:44.754874: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-11 07:59:00.940523: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-11 08:46:40.113648: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-11 10:05:01.292742: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-11 10:12:26.201428: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-11 10:15:47.429893: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-12 04:02:09.129201: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-12 04:24:19.920504: An error occurred in main loop: BadRequest - Message to delete not found
+2024-12-14 18:43:28.644894: An error occurred in main loop: BadRequest - Message to delete not found
